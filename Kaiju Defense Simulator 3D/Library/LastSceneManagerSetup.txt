@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/PlayArea.unity
+- path: Assets/Scenes/PlayArea3D.unity
   isLoaded: 1
   isActive: 1
