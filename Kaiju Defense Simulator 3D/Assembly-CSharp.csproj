@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\fire.cs" />
     <Compile Include="Assets\Scripts\monsterMove.cs" />
     <Compile Include="Assets\Scripts\spawnObject.cs" />
+    <None Include="Assets\Turret\Shaders\AlphaTest_Complete.shader" />
     <None Include="Assets\MC-1 USSR Toon Tank Big\README.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Documents/Kaiju3D/Kaiju Defense Simulator 3D/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
