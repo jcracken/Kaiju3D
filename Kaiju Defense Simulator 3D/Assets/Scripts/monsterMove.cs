@@ -12,6 +12,7 @@ public class monsterMove : MonoBehaviour {
     public Text hText;
     public Text gOver;
     public Text youWin;
+    public GameObject power;
     // Use this for initialization
     void Start () {
        
@@ -34,7 +35,7 @@ public class monsterMove : MonoBehaviour {
                 if (transform.position.y < -3.4) three = true;
                 else transform.Translate(0, -0.25f * Time.deltaTime, 0);
             } else {
-                transform.position = new Vector3(-0.068f, -3.462f, 0.0f);
+                transform.position = power.transform.position;
                 gOver.text = "Game Over";
                 health = 10000;
             }
