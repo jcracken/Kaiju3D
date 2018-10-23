@@ -29,9 +29,9 @@ public class fire : MonoBehaviour {
         if(transform.position.x > -5.0f) {
             myAnimator.SetTrigger("boom");
             aud.Play(0);
-            Vector3 fwd = transform.TransformDirection(Vector3.up);
+            Vector3 fwd = transform.TransformDirection(Vector3.forward);
             float dist = Vector3.Distance(transform.position, target.transform.position);
-            if (!Physics2D.Raycast(transform.position, fwd, dist)) {
+            if (!Physics.Raycast(transform.position, fwd, dist)) {
                 target.GetComponent<monsterMove>().health -= damage;
             }
         }
