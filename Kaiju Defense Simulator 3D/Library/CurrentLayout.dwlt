@@ -90,7 +90,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 95
+  controlID: 93
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -162,7 +162,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 25
+  controlID: 72
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -407,20 +407,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Robot1F_Workshop_3D/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Robot1F_Workshop_3D/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Documents\Kaiju3D\Kaiju Defense Simulator 3D
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d4330000
-    m_LastClickedID: 13268
-    m_ExpandedIDs: 00000000d4330000e636000000ca9a3b
+    m_SelectedIDs: e62a0000
+    m_LastClickedID: 10982
+    m_ExpandedIDs: 00000000f02900002a2a00007c2d00009a2e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -448,7 +448,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d433000066370000
+    m_ExpandedIDs: 00000000f02900009a2e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -500,7 +500,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 694.5}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 133
 --- !u!114 &16
@@ -608,14 +608,14 @@ MonoBehaviour:
     height: 799
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 898.2020439761329
+  lastFramingTime: 1267.715595543638
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 398.61606, y: 8.395451, z: 202.97304}
+    m_Target: {x: 161.57901, y: 72.79661, z: 421.96353}
     speed: 2
-    m_Value: {x: 398.61606, y: 8.395451, z: 202.97304}
+    m_Value: {x: 161.57901, y: 72.79661, z: 421.96353}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -643,13 +643,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.28107437, y: 0.6344567, z: -0.26660752, w: 0.66887385}
+    m_Target: {x: 0.1511718, y: 0.83913684, z: -0.43240234, w: 0.29334068}
     speed: 2
-    m_Value: {x: 0.281073, y: 0.6344536, z: -0.2666062, w: 0.66887057}
+    m_Value: {x: 0.15116999, y: 0.8391267, z: -0.43239713, w: 0.29333714}
   m_Size:
-    m_Target: 61.619087
+    m_Target: 482.29358
     speed: 2
-    m_Value: 61.619087
+    m_Value: 482.29358
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -688,9 +688,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ee370000
-    m_LastClickedID: 14318
-    m_ExpandedIDs: ec8dffffdcbbffff00000000
+    m_SelectedIDs: 329fffff
+    m_LastClickedID: -24782
+    m_ExpandedIDs: e6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
