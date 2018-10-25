@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 521}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -87,8 +87,8 @@ MonoBehaviour:
     y: 30
     width: 1368
     height: 820
-  m_MinSize: {x: 713, y: 492}
-  m_MaxSize: {x: 18008, y: 14042}
+  m_MinSize: {x: 713, y: 471}
+  m_MaxSize: {x: 18008, y: 14021}
   vertical: 0
   controlID: 97
 --- !u!114 &5
@@ -159,8 +159,8 @@ MonoBehaviour:
     y: 0
     width: 275
     height: 820
-  m_MinSize: {x: 234, y: 492}
-  m_MaxSize: {x: 10004, y: 14042}
+  m_MinSize: {x: 234, y: 471}
+  m_MaxSize: {x: 10004, y: 14021}
   vertical: 1
   controlID: 75
 --- !u!114 &8
@@ -207,8 +207,8 @@ MonoBehaviour:
     y: 0
     width: 275
     height: 363
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -424,20 +424,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Robot1F_Workshop_3D/Prefabs
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Robot1F_Workshop_3D/Prefabs
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Documents\Kaiju3D\Kaiju Defense Simulator 3D
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e62a0000
-    m_LastClickedID: 10982
-    m_ExpandedIDs: 00000000f02900002a2a00009a2e000000ca9a3b
+    m_SelectedIDs: 4a2a0000
+    m_LastClickedID: 10826
+    m_ExpandedIDs: 00000000f02900009a2e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -492,7 +492,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000362b000000000000d62a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -630,9 +630,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 97.692566, y: 158.75, z: 310.50302}
+    m_Target: {x: 285.36884, y: 175.59277, z: 93.513794}
     speed: 2
-    m_Value: {x: 97.692566, y: 158.75, z: 310.50302}
+    m_Value: {x: 285.36884, y: 175.59277, z: 93.513794}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -660,13 +660,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.27885422, y: 0.63139904, z: -0.26088488, w: -0.6749205}
+    m_Target: {x: -0.52103615, y: 0.42994678, z: -0.34331098, w: -0.6525421}
     speed: 2
-    m_Value: {x: -0.27885383, y: 0.63139814, z: -0.2608845, w: -0.67491955}
+    m_Value: {x: -0.5210345, y: 0.4299454, z: -0.34330988, w: -0.65254}
   m_Size:
-    m_Target: 546.00665
+    m_Target: 473.68176
     speed: 2
-    m_Value: 546.00665
+    m_Value: 473.68176
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -705,9 +705,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: e6fbffff00000000
+    m_SelectedIDs: 90d5ffff
+    m_LastClickedID: -10864
+    m_ExpandedIDs: e6fbffff000000000c300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
