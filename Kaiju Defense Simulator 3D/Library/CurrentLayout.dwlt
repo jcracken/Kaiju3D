@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1368
     height: 870
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 521}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -90,7 +90,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 471}
   m_MaxSize: {x: 18008, y: 14021}
   vertical: 0
-  controlID: 97
+  controlID: 112
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -162,7 +162,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 471}
   m_MaxSize: {x: 10004, y: 14021}
   vertical: 1
-  controlID: 75
+  controlID: 73
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -424,19 +424,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Documents\Kaiju3D\Kaiju Defense Simulator 3D
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4a2a0000
-    m_LastClickedID: 10826
+    m_SelectedIDs: f0290000
+    m_LastClickedID: 10736
     m_ExpandedIDs: 00000000f02900009a2e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -465,7 +465,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f02900002a2a00009a2e0000
+    m_ExpandedIDs: 00000000f02900009a2e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -492,7 +492,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000362b000000000000d62a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -519,7 +519,7 @@ MonoBehaviour:
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
-  m_DirectoriesAreaWidth: 133
+  m_DirectoriesAreaWidth: 122
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -625,14 +625,14 @@ MonoBehaviour:
     height: 799
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 1267.715595543638
+  lastFramingTime: 174.79155890615974
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 285.36884, y: 175.59277, z: 93.513794}
+    m_Target: {x: -0.003965497, y: 0.79940295, z: 0.039073884}
     speed: 2
-    m_Value: {x: 285.36884, y: 175.59277, z: 93.513794}
+    m_Value: {x: -0.003965497, y: 0.79940295, z: 0.039073884}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -660,13 +660,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.52103615, y: 0.42994678, z: -0.34331098, w: -0.6525421}
+    m_Target: {x: -0.13621296, y: 0.25174057, z: -0.035817042, w: -0.9574954}
     speed: 2
-    m_Value: {x: -0.5210345, y: 0.4299454, z: -0.34330988, w: -0.65254}
+    m_Value: {x: -0.13621245, y: 0.25173965, z: -0.035816908, w: -0.9574919}
   m_Size:
-    m_Target: 473.68176
+    m_Target: 9.54639
     speed: 2
-    m_Value: 473.68176
+    m_Value: 9.54639
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -705,9 +705,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 90d5ffff
-    m_LastClickedID: -10864
-    m_ExpandedIDs: e6fbffff000000000c300000
+    m_SelectedIDs: 10300000
+    m_LastClickedID: 12304
+    m_ExpandedIDs: e6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
