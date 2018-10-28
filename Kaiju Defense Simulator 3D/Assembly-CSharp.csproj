@@ -64,6 +64,7 @@
     <Compile Include="Assets\Artillery Tank\Demo Scene\CameraController.cs" />
     <Compile Include="Assets\MC-1 USSR Toon Tank Big\Scripts\CameraOrbit.cs" />
     <Compile Include="Assets\MC-1 USSR Toon Tank Big\Scripts\SimpleControl.cs" />
+    <Compile Include="Assets\Scripts\camChange.cs" />
     <Compile Include="Assets\Scripts\fire.cs" />
     <Compile Include="Assets\Scripts\monsterMove.cs" />
     <Compile Include="Assets\Scripts\spawnObject.cs" />
