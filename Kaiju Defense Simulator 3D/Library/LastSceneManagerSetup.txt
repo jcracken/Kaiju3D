@@ -1,4 +1,3 @@
-sceneSetups:
-- path: Assets/Scenes/PlayArea3D.unity
-  isLoaded: 1
-  isActive: 1
+version https://git-lfs.github.com/spec/v1
+oid sha256:a188e201bc5fea5c1559bc6db76e1ad1fa102fab130fe53852791211d0dc619d
+size 80
